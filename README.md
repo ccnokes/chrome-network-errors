@@ -4,6 +4,8 @@ Taken straight from [https://cs.chromium.org/chromium/src/net/base/net_error_lis
 
 This can be useful in Electron apps that load remote URLs.
 
+`npm install chrome-network-errors`
+
 For example:
 
 ```javascript
